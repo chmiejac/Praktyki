@@ -1,8 +1,7 @@
 zad. 1
-wyciagniecie javaScript do osbnego pliku .js i przekazywanie wartości wejsciowych w parametrach funkcji.
+wyciagniecie javaScript do osbnego pliku .js i przekazywanie wartości wejsciowych w parametrach funkcji. pull request, code review
 
-
-zad 2.
+zad. 2
 Zadanie do wykonania na nowym branchu, odbitym z maina. Na koniec należy wystawić pull request z tego brancha z powrotem do maina
 Należy podzielić funkcję generowania curpa na mniejsze funkcje. Funkcja generujaca curp powinna jedynie sklejac wyniki tych funkcji. Proponowane osobne funkcja dla:
 - generowania pierwszych 4 znakow wynikajacych z imion i nazwisk
